@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vekain19/.android/build-cache/a5121175c529e74c1752d45b080fb23738d9258d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/vekain19/AndroidStudioProjects/mmm/app/build/intermediates/pre-dexed/debug/classes_5dbcb76676d4807b7d32c069e456f9506ad3391d.jar" />
+    </item>
+
+</items>

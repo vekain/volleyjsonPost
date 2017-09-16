@@ -1,0 +1,122 @@
+[
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/.android/build-cache/9ff187338ee3821205cd549dd05d69b78b6e07f6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\C:\\Users\\Dell-(PC)\\Documents\\AndroidStudioProjects\\Server_demo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\C:\\Users\\Dell-(PC)\\.android\\build-cache\\2139a702494bafcd371464fdb1f3a221f29a6cd4\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\Users\\Dell\\Documents\\AndroidStudioProjects\\Server_com\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\Users\\Dell\\.android\\build-cache\\38cdd10ec630d4e0525ea7f20f3a2ce5cb77b453\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\.android\\build-cache\\f5dbf1c46330a627e85b2fdfec88aca127e27f86\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\mmm\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\.android\\build-cache\\f5dbf1c46330a627e85b2fdfec88aca127e27f86\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

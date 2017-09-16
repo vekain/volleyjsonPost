@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell_pc.server_demo.MainActivity"
+    android:orientation="vertical">
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/buttonRegister"
+       android:drawableLeft="@android:drawable/ic_menu_edit"
+       android:drawablePadding="6dp"
+       android:gravity="left|center"
+       android:height="60dp"
+       android:textAllCaps="false"
+       android:text="OnlyStringInfo"
+       android:padding="6dp"
+       android:paddingEnd="20sp"
+       android:textColor="#000"
+       android:textStyle="bold" />
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/server"
+       android:drawableLeft="@android:drawable/ic_menu_edit"
+       android:drawablePadding="6dp"
+       android:gravity="left|center"
+       android:height="60dp"
+       android:padding="6dp"
+       android:textAllCaps="false"
+       android:text="OnlyStringInfo_1"
+       android:paddingEnd="20sp"
+       android:textColor="#000"
+       android:textStyle="bold" />
+
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/button3"
+       android:drawableLeft="@android:drawable/ic_menu_edit"
+       android:drawablePadding="6dp"
+       android:gravity="left|center"
+       android:height="60dp"
+       android:textAllCaps="false"
+       android:text="OnlyStringInfo2"
+       android:padding="6dp"
+       android:paddingEnd="20sp"
+       android:textColor="#000"
+       android:textStyle="bold" />
+
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/button4"
+       android:drawableLeft="@android:drawable/ic_menu_edit"
+       android:drawablePadding="6dp"
+       android:gravity="left|center"
+       android:height="60dp"
+       android:textAllCaps="false"
+       android:text="OnlyStringInfo3"
+       android:padding="6dp"
+       android:paddingEnd="20sp"
+       android:textColor="#000"
+       android:textStyle="bold" />
+
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/button5"
+       android:drawableLeft="@android:drawable/ic_menu_edit"
+       android:drawablePadding="6dp"
+       android:gravity="left|center"
+       android:height="60dp"
+       android:textAllCaps="false"
+       android:text="Post Image"
+       android:padding="6dp"
+       android:paddingEnd="20sp"
+       android:textColor="#000"
+       android:textStyle="bold" />
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/button6"
+       android:drawableLeft="@android:drawable/ic_menu_edit"
+       android:drawablePadding="6dp"
+       android:gravity="left|center"
+       android:height="60dp"
+       android:textAllCaps="false"
+       android:text="Insert punch info"
+       android:padding="6dp"
+       android:paddingEnd="20sp"
+       android:textColor="#000"
+       android:textStyle="bold" />
+
+</LinearLayout>

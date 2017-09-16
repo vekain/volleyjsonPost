@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\.android\\build-cache\\c377e6bd83a8fed461437d985e3eaf77c63f4068\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\C:\\Users\\Dell-(PC)\\Documents\\AndroidStudioProjects\\Server_demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\C:\\Users\\Dell-(PC)\\.android\\build-cache\\acc95bb7b58a5d8f14ad207524abb54068433bbe\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\Users\\Dell\\Documents\\AndroidStudioProjects\\Server_com\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\Users\\Dell\\.android\\build-cache\\52cabfc77d8b834c2b58e3053e7ae16291cbfad1\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\.android\\build-cache\\c377e6bd83a8fed461437d985e3eaf77c63f4068\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\C:\\Users\\Dell-(PC)\\Documents\\AndroidStudioProjects\\Server_demo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\Server_demo\\C:\\Users\\Dell-(PC)\\.android\\build-cache\\acc95bb7b58a5d8f14ad207524abb54068433bbe\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\mmm\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\.android\\build-cache\\c377e6bd83a8fed461437d985e3eaf77c63f4068\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\AndroidStudioProjects\\mmm\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\home\\vekain19\\.android\\build-cache\\c377e6bd83a8fed461437d985e3eaf77c63f4068\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\Users\\Dell\\Documents\\AndroidStudioProjects\\Server_com\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/Server_com/C:\\Users\\Dell\\.android\\build-cache\\52cabfc77d8b834c2b58e3053e7ae16291cbfad1\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
